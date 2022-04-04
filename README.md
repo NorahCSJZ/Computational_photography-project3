@@ -56,5 +56,9 @@ For the data you give to us, the result would be like these:
 ![1](https://user-images.githubusercontent.com/34802668/161474326-a25ffac5-c478-4b0f-a596-2e0de64ffa59.png)
 
 5.Bells and whistles:
+1)Do the image geometric warping on your own without using functions that warp the images
+
+2) Cylindrical mapping result:
+![cylindricalProjection](https://user-images.githubusercontent.com/34802668/161597472-1c3148ce-e6e4-4706-b3e1-7e066ae1b7bc.png)
 
 
