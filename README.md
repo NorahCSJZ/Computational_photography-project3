@@ -57,6 +57,10 @@ For the data you give to us, the result would be like these:
 
 5.Bells and whistles:
 1)Do the image geometric warping on your own without using functions that warp the images
+Code shown below:
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/34802668/161598317-5755ab9d-d037-44d3-8331-4a07c3e131af.png">
+
+My method is:
 
 2) Cylindrical mapping result:
 ![cylindricalProjection](https://user-images.githubusercontent.com/34802668/161597472-1c3148ce-e6e4-4706-b3e1-7e066ae1b7bc.png)
