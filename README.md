@@ -58,6 +58,3 @@ For the data you give to us, the result would be like these:
 5.Bells and whistles:
 
 
-
-![Uploading 2.png…]()
-
